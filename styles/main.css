@@ -11,8 +11,8 @@ body {
 
     color: #333333; 
     max-width: 720px;
-    margin-left: 5%;
-    margin-right: 5%;
+    margin-left: auto;
+    margin-right: auto;
     font-family: 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
 }
 
